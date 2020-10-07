@@ -1,1 +1,12 @@
-# usuario1
+#EXTM3U
+#EXTINF:0 group-title="Comedia" tvg-logo="https://www.dropbox.com/s/i9fq7s7rb5ajcap/Zombieland2.jpg", Zombielands 2 | NACHIX
+https://www.dropbox.com/s/sdmqv1bji15t1ff/Zombieland2.mp4?dl=1
+
+#EXTINF:0 group-title="Comedia" tvg-logo="https://www.dropbox.com/s/wzwosge0rmsuuz4/Un_pap_genial-661886773-large.jpg", Un Papá Genial | NACHIX
+https://www.dropbox.com/s/x1maug2q56hco0p/Un%20Pap%C3%A1%20Genial%20-%20NACHIX.mp4?dl=1
+
+#EXTINF:0 group-title="INFANTIL" tvg-logo="https://www.dropbox.com/s/r8kwyv7e7carqeq/Emoji_La_pel_cula-258922864-large.jpg", Emojis La Pelicula | NACHIX
+https://www.dropbox.com/s/7cwgwqgbte5ma9o/Emoji-%20La%20Pel%C3%ADcula%20%282017%29%20Online%20-%20NACHIX.mp4?dl=1
+
+#EXTINF:0 group-title="INFANTIL" tvg-logo="https://pics.filmaffinity.com/Emoji_La_pel_cula-172311166-mmed.jpg", SONIC | NACHIX
+https://www.dropbox.com/s/obrvmtm40uxgz1b/Sonic.%20La%20pel%C3%ADcula%20%282020%29%20Online%20en%20Espa%C3%B1ol%20-%20NACHIX.mp4?dl=1
