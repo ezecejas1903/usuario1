@@ -1,54 +1,36 @@
-# EXTM3U
-#EXTINF: -1 group-title = "Comedia" tvg-logo = "https://www.dropbox.com/s/i9fq7s7rb5ajcap/Zombieland2.jpg?dl=1", Zombielands 2 | NACHIX
+#EXTM3U
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://www.dropbox.com/s/i9fq7s7rb5ajcap/Zombieland2.jpg?dl=1", Zombielands 2 | NACHIX
 https://www.dropbox.com/s/sdmqv1bji15t1ff/Zombieland2.mp4?dl=1
 
-#EXTINF: -1 group-title = "Comedia" tvg-logo = "https://www.dropbox.com/s/wzwosge0rmsuuz4/Un_pap_genial-661886773-large.jpg?dl=1", Un Papá Genial | NACHIX
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://www.dropbox.com/s/wzwosge0rmsuuz4/Un_pap_genial-661886773-large.jpg?dl=1", Un Papá Genial | NACHIX
 https://www.dropbox.com/s/x1maug2q56hco0p/Un%20Pap%C3%A1%20Genial%20-%20NACHIX.mp4?dl=1
 
-#EXTINF: -1 group-title = "Comedia" tvg-logo = "https://www.dropbox.com/s/jf4jdli2t293idy/chiquitoperopeligroso%5B1%5D.jpg?dl=1", Chiquito pero Peligroso | NACHIX
-https://www.dropbox.com/s/4yxg7c3weefpmg9/Chiquito%20pero%20Peligroso-NACHIX.mp4?dl=1
-
-#EXTINF: -1 group-title = "Comedia" tvg-logo = "https://www.dropbox.com/s/qc4wk7kjpclv27x/Shaolin-Soccer.jpg?dl=1", Shaolin Soccer | NACHIX
-https://www.dropbox.com/s/snkjtph27zpxsp0/Shaolin%20Soccer%20%282001%29%20NACHIX.mp4?dl=1
-
-#EXTINF: -1 group-title = "Comedia" tvg-logo = "https://www.dropbox.com/s/cfunxghldty65og/images.jpg?dl=1", Ajuste de Cuentas | NACHIX
-https://www.dropbox.com/s/n4z68kecmvmppoh/Ajuste%20de%20Cuentas%20NACHIX.mp4?dl=1
-
-#EXTINF: -1 group-title = "INFANTIL" tvg-logo = "https://www.dropbox.com/s/r8kwyv7e7carqeq/Emoji_La_pel_cula-258922864-large.jpg?dl=1", Emojis La Pelicula | NACHIX
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://www.dropbox.com/s/r8kwyv7e7carqeq/Emoji_La_pel_cula-258922864-large.jpg?dl=1", Emojis La Pelicula | NACHIX
 https://www.dropbox.com/s/7cwgwqgbte5ma9o/Emoji-%20La%20Pel%C3%ADcula%20%282017%29%20Online%20-%20NACHIX.mp4?dl=1
 
-#EXTINF: -1 group-title = "INFANTIL" tvg-logo = "https://www.dropbox.com/s/bgc9aiukwgmukxo/soul.jpg?dl=1", Soul 2020 | NACHIX
-https://www.dropbox.com/s/hxdb3iyp6udhtcy/Soul%20%282020%29%20%20Espa%C3%B1ol%20Latino%20-%20NACHIX.mp4?dl=1
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://www.dropbox.com/s/tdwff5cjzwsgc79/0815514.jpg?dl=1", SONIC | NACHIX
+https://www.dropbox.com/s/obrvmtm40uxgz1b/Sonic.%20La%20pel%C3%ADcula%20%282020%29%20Online%20en%20Espa%C3%B1ol%20-%20NACHIX.mp4?dl=1
 
-#EXTINF: -1 group-title = "INFANTIL" tvg-logo = "https://www.dropbox.com/s/tdwff5cjzwsgc79/0815514.jpg?dl=1", SONIC | NACHIX
-https://www.dropbox.com/s/obrvmtm40uxgz1b/Sonic.%20La%20pel%C3%ADcula%20%282020%29%20Online%20en%20Espa%C3%B1ol%20-%20NACHIX.mp4?dl= 1
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://www.dropbox.com/s/jf4jdli2t293idy/chiquitoperopeligroso%5B1%5D.jpg?dl=1", Chiquito pero Peligroso | NACHIX
+https://www.dropbox.com/s/4yxg7c3weefpmg9/Chiquito%20pero%20Peligroso-NACHIX.mp4?dl=1
 
-#EXTINF: -1 group-title = "INFANTIL" tvg-logo = "https://www.dropbox.com/s/q3nmo8ju8bub5se/the_spongebob_movie_sponge_on_the_run-830044791-large.jpg?dl=1", Bob Esponja Al Rescate | NACHIX
-https://www.dropbox.com/s/jnfglee0u5ng6v4/Ver%20Bob%20Esponja-%20Al%20rescate%20%282020%29%20Online%20en%20Espa%C3%B1ol%20-%20NACHIX.mp4?dl= 1
 
-#EXTINF: -1 group-title = "Cristianas" tvg-logo = "https://www.dropbox.com/s/nrxzmo9c8sdvcaz/images.jpg?dl=1", Hasta el último Hombre | NACHIX
-https://www.dropbox.com/s/at4iahslij3ndhz/Hasta%20el%20%C3%9Altimo%20Hombre%20-%20NACHIX.mp4?dl=1
 
-#EXTINF: -1 group-title = "Acción" tvg-logo = "https://www.dropbox.com/s/01b0s2j6uratnjl/logan-poster-3.png?dl=1", Logan | NACHIX
+#EXTINF:-1 group-title="Acción" tvg-logo="https://www.dropbox.com/s/01b0s2j6uratnjl/logan-poster-3.png?dl=1", Logan | NACHIX
 https://www.dropbox.com/s/dr01xjqpug5qszt/Logan%20%20%282017%29%20Espa%C3%B1ol%20Latino-%20NACHIX.mp4?dl=1
 
-#EXTINF: -1 group-title = "Acción" tvg-logo = "https://www.dropbox.com/s/skvvz6pewzt2xkc/r1.jpg?dl=1", Rapidos y Furiosos | NACHIX
+#EXTINF:-1 group-title="Cristianas" tvg-logo="https://www.dropbox.com/s/nrxzmo9c8sdvcaz/images.jpg?dl=1", Hasta el último Hombre | NACHIX
+https://www.dropbox.com/s/at4iahslij3ndhz/Hasta%20el%20%C3%9Altimo%20Hombre%20-%20NACHIX.mp4?dl=1
+
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://www.dropbox.com/s/q3nmo8ju8bub5se/the_spongebob_movie_sponge_on_the_run-830044791-large.jpg?dl=1", Bob Esponja Al Rescate | NACHIX
+https://www.dropbox.com/s/jnfglee0u5ng6v4/Ver%20Bob%20Esponja-%20Al%20rescate%20%282020%29%20Online%20en%20Espa%C3%B1ol%20-%20NACHIX.mp4?dl=1
+
+#EXTINF:-1 group-title="Acción" tvg-logo="https://www.dropbox.com/s/skvvz6pewzt2xkc/r1.jpg?dl=1", Rapidos y Furiosos | NACHIX
 https://www.dropbox.com/s/mbiuyyr5s36ji73/Pel%C3%ADcula%20R%C3%A1pido%20y%20Furioso%20Online%20%282001%29%20NACHIX.mp4?dl=1
 
-#EXTINF: -1 group-title = "Acción" tvg-logo = "https://www.dropbox.com/s/ul4m765c22fk4w1/Ip_Man_Kung_Fu_Master-991726580-large.jpg?dl=1", Ip Man -Kung fu master 2019 | NACHIX
+#EXTINF:-1 group-title="Acción" tvg-logo="https://www.dropbox.com/s/ul4m765c22fk4w1/Ip_Man_Kung_Fu_Master-991726580-large.jpg?dl=1", Ip Man -Kung fu master 2019 | NACHIX
 https://www.dropbox.com/s/lznmu6i4gtogaby/Ver%20Ip%20Man-%20Kung%20Fu%20Master%20%282019%29%20Online%20en%20Espa%C3%B1ol.mp4?dl=1
 
-#EXTINF: -1 group-title = "Acción" tvg-logo = "https://www.dropbox.com/s/c2g10hc7pxuk92w/Bad_Boys_para_siempre-496204633-large.jpg?dl=1", Bad Boy para Simpre | NACHIX
-https://www.dropbox.com/s/9b78wvki7jxkvue/Bad%20Boys%20Para%20Siempre%20%282020%29%20NACHIX.mp4?dl=1
-
-#EXTINF: -1 group-title = "Ficción" tvg-logo = "https://www.dropbox.com/s/q8a4gz3b4b7s80g/regreso-futuro.jpg?dl=1", Volver al Futuro | NACHIX
-https://www.dropbox.com/s/pdfs507q8eucq2d/%E2%96%B7%20Ver%20Volver%20al%20Futuro%20%281985%29%20Pel%C3%ADcula%20Completa%20Online%20Espa%C3%B1ol % 20Latino.mp4? Dl = 1
-
-#EXTINF: -1 group-title = "Ficción" tvg-logo = "https://www.dropbox.com/s/x4tlcoy40dyyi3t/Regreso_al_futuro_II-143311235-large.jpg?dl=1", Volver al Futuro II | NACHIX
-https://www.dropbox.com/s/fg43ohqrn9sffki/Volver%20al%20Futuro%202%20%281989%29%20-%20NACHIX.mp4?dl=1
-
-#EXTINF: -1 group-title = "Ficción" tvg-logo = "https://www.dropbox.com/s/abjiiob3nhlitlq/Volver_al_futuro_III-223713634-large.jpg?dl=1", Volver al Futuro 3 | NACHIX
-https://www.dropbox.com/s/2kq687rskyy3v4k/Volver%20al%20Futuro%203%20%281990%29%20NACHIX.mp4?dl=1
-
-#EXTINF: -1 group-title = "Acción" tvg-logo = "https://www.dropbox.com/s/ciz16uov6sx01e2/Poster_El_Robo_Del_Siglo___L-768x960.jpg?dl=1", El Robo del Siglo | NACHIX
-https://www.dropbox.com/s/27eq22g67yjzs01/El%20Robo%20del%20Siglo%20-%20NACHIX.mp4?dl=1
+#EXTINF:-1 group-title="Comedia" tvg-logo="https://www.dropbox.com/s/cfunxghldty65og/images.jpg?dl=1", Ajuste de Cuentas | NACHIX
+https://www.dropbox.com/s/n4z68kecmvmppoh/Ajuste%20de%20Cuentas%20NACHIX.mp4?dl=1
