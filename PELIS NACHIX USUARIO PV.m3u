@@ -1,4 +1,6 @@
 #EXTM3U
+#EXT-X-BUFFER:4000
+#EXT-X-CACHE:1000
 #EXTINF:-1 group-title="Comedia" tvg-logo="https://www.dropbox.com/s/lonpkokyqttserm/z2.jpg?dl=1", Zombielands 2 | NACHIX
 https://www.dropbox.com/s/sdmqv1bji15t1ff/Zombieland2.mp4?dl=1
 
