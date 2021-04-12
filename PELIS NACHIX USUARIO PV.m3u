@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-BUFFER:4000
-#EXT-X-CACHE:1000
 #EXTINF:-1 group-title="Comedia" tvg-logo="https://www.dropbox.com/s/lonpkokyqttserm/z2.jpg?dl=1", Zombielands 2 | NACHIX
 https://www.dropbox.com/s/sdmqv1bji15t1ff/Zombieland2.mp4?dl=1
 
@@ -164,8 +162,5 @@ https://www.dropbox.com/s/d6ybhhxfh00twb7/02x01.mkv?dl=1
 #EXTINF:-1 group-title="LOS SIMPSONS" tvg-logo="https://www.dropbox.com/s/nro8j7r1d47ggwo/sp%202.jpg?dl=1",Los Simpsons Tp 2 cap 2 | NACHIX
 https://www.dropbox.com/s/28b0rjbb59bxj0m/02x02.mkv?dl=1
 
-#EXTINF:-1 group-title="FICCIÓN" tvg-logo="https://www.dropbox.com/s/dsn0m71y29zgpm2/gk.jpg?dl=1", Godzilla VS Kong FULL HD| NACHIX
-https://www.dropbox.com/s/ivcu0l6amedf9dn/Godzila%10vs%10King%10kong%20NACHIX.mkv?dl=1
-
-#EXTINF:-1 group-title="FICCIÓN" tvg-logo="https://www.dropbox.com/s/dsn0m71y29zgpm2/gk.jpg?dl=1", Godzilla VS Kong HD +| NACHIX
-https://www.dropbox.com/s/ivcu0l6amedf9dn/Godzila%10vs%10King%10kong%10NACHIX.mkv?dl=1
+#EXTINF:-1 group-title="FICCIÓN" tvg-logo="https://www.dropbox.com/s/dsn0m71y29zgpm2/gk.jpg?dl=1", Godzilla VS Kong + HD | NACHIX
+https://www.dropbox.com/s/ivcu0l6amedf9dn/Godzila%20vs%20King%20kong%20NACHIX.mkv?dl=1
