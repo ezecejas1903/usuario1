@@ -178,13 +178,4 @@ https://d.dubox.com/file/71a6fe7023b751be7bc829d76ea8c27f?fid=4401446788066-2505
 https://www.dropbox.com/s/rgdl8fgiunrdlxw/Hombres%20de%20negro%20%281997%29%20HD%20NACHIX.mp4?dl=1
 
 #EXTINF:-1 group-title="TV EN VIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cartoon_Network_2010_logo_variant.png", Cartoon Network HD| NACHIX
-http://172.93.101.135:14365/live/cyx-0FC0F6D0472A828540828F74FF61.ts?user_id=43260808&dev_id=1ca7dbc9bc67b516e671d723150a74e8&trans_id=nEl3ptQHWCH_mXjW8fdPiIpI&dead_time=1620613869&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30801&client_ip=186.22.16.73&auth_id=43260808_com.mobile.telelatinomobile&token=f2fdf2404150820ed187280afea00658
-
-#EXTINF:-1 group-title="TV EN VIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png", Paka Paka| NACHIX
-http://172.93.101.135:14365/live/cyx_HwX9zldiYlAYlSWiDg.ts?user_id=43260808&dev_id=1ca7dbc9bc67b516e671d723150a74e8&trans_id=nEl3ptQHWCH_2YGsLRiWBkIy&dead_time=1620613869&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30801&client_ip=186.22.16.73&auth_id=43260808_com.mobile.telelatinomobile&token=6ea8043a43de3e2b73e79907c4744c30
-
-#EXTINF:-1 group-title="TV EN VIVO" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.718406328_FoxSportsPremium.png.2d3118dc99043ec79eaff13b026c8953.png", Fox Premium HD| NACHIX
-http://172.93.101.135:14365/live/cyx-6A5BD66F4D688bc8335D2C445D23.ts?user_id=43260808&dev_id=1ca7dbc9bc67b516e671d723150a74e8&trans_id=nEl3ptQHWCH_tH1NKGhoVrNj&dead_time=1620613869&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30801&client_ip=186.22.16.73&auth_id=43260808_com.mobile.telelatinomobile&token=b7980450744ef6334d22686711e0c45e
-
-#EXTINF:-1 group-title="TV EN VIVO" tvg-logo="https://e7.pngegg.com/pngimages/180/597/png-clipart-fox-sports-networks-fox-sports-sun-television-channel-fox-sports-2-civilization-network-television-text-thumbnail.png", Fox Sport 2 Arg| NACHIX
-http://172.93.101.135:14365/live/cyx_9VTgIS1Grw3uJJje1.ts?user_id=43260808&dev_id=1ca7dbc9bc67b516e671d723150a74e8&trans_id=nEl3ptQHWCH_3J1MSCjRMtzG&dead_time=1620613869&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30801&client_ip=186.22.16.73&auth_id=43260808_com.mobile.telelatinomobile&token=b5761a77ea1268655e02c3b9b0a76a0e
+http://e10.telerium.uno:2052/free10/137/chunks.m3u8?nimblesessionid=6351865&wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMjEgMTE6NTU6MjUgUE0maGFzaF92YWx1ZT1JOFM0S1czQVFJL21UMUUyWW8yRGpRPT0mdmFsaWRtaW51dGVzPTI0MA==
