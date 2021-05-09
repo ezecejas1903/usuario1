@@ -177,5 +177,6 @@ https://d.dubox.com/file/71a6fe7023b751be7bc829d76ea8c27f?fid=4401446788066-2505
 #EXTINF:-1 group-title="FICCIÓN" tvg-logo="https://www.dropbox.com/s/gvyi0jfflaqtp2h/n.jpg?dl=1", Hombres de Negro| NACHIX
 https://www.dropbox.com/s/rgdl8fgiunrdlxw/Hombres%20de%20negro%20%281997%29%20HD%20NACHIX.mp4?dl=1
 
-#EXTINF:-1 group-title="TV EN VIVO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ68VigGQSPoWuqC4390znU4n34VGAwyeXZVyx6ldru2y2W-r6tMID8HhzKhNqu0-T_9g&usqp=CAU", Telefé| NACHIX
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1620422398~exp=1620598798~acl=/i/canal13santafe_1@751190/*~hmac=cce116ba321867cc7dfb5dcc2a5942633e3b049c45f593879051da0168916bd5
+#EXTINF:-1 group-title="TV EN VIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cartoon_Network_2010_logo_variant.png", Cartoon Network HD| NACHIX
+http://172.93.101.135:14365/live/cyx-FCB2C1F34018a709EE178AF0E2ED.ts?user_id=43260808&dev_id=1ca7dbc9bc67b516e671d723150a74e8&trans_id=mdMV3gPiv_MDJ8a1kEza9L&dead_time=1620612663&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30801&client_ip=186.22.16.73&auth_id=43260808_com.mobile.telelatinomobile&token=3ec48e080da78a41eeac6fab9ea1f722
+
