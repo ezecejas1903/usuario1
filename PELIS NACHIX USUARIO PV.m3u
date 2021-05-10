@@ -186,3 +186,6 @@ http://e10.telerium.uno:2052/free10/098/chunks.m3u8?nimblesessionid=6357791&wmsA
 #EXTINF:-1 group-title="TV EN VIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png", NICK| NACHIX
 http://e10.telerium.uno:2052/free10/144/chunks.m3u8?nimblesessionid=6372051&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDIxIDEyOjQ2OjAyIEFNJmhhc2hfdmFsdWU9WWc4Yi95aGJsRFQvTFcwRVJic05wZz09JnZhbGlkbWludXRlcz0yNDA=
 
+#EXTINF:-1 group-title="TV EN VIVO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2| NACHIX
+http://172.93.101.135:14365/live/cyx-59A5CAFA4B68abf4EFB07D42C84B.ts?user_id=43260808&dev_id=1ca7dbc9bc67b516e671d723150a74e8&trans_id=puVfKSPbWMUh_5hf3Ht9ukiUN&dead_time=1620622366&app_id=com.mobile.telelatinomobile&host=172.93.101.135:14365&app_ver=30801&client_ip=186.22.16.73&auth_id=43260808_com.mobile.telelatinomobile&token=1e8ab2cc6614742062e950fce882c62f
+
