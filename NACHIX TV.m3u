@@ -55,3 +55,29 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/ezecejas1903/logostv/raw/main/tvna1.gif", DEPORTV
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
 
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://github.com/ezecejas1903/logostv/raw/main/tvna1.gif", STAR CHANEL
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://github.com/ezecejas1903/logostv/raw/main/tvna1.gif", CINE CANAL
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://github.com/ezecejas1903/logostv/raw/main/tvna1.gif", CINEMAX
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://github.com/ezecejas1903/logostv/raw/main/tvna1.gif", TNT
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://github.com/ezecejas1903/logostv/raw/main/tvna1.gif", ESTUDIOS UNIVERSAL
+https://edge3-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://github.com/ezecejas1903/logostv/raw/main/tvna1.gif", WARNER TV
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://github.com/ezecejas1903/logostv/raw/main/tvna1.gif", AXN
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
