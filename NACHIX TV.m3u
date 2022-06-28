@@ -14,6 +14,9 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
 
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.ver-television.online/images/tnt_.png", CANAL 26
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", FOX SPORT PREMIUM
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
