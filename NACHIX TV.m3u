@@ -1,3 +1,53 @@
 #EXTM3U
-#EXTINF:-1 group-title="Peliculas" tvg-logo="https://www.ver-television.online/images/tnt_.png", TNT | NACHIX TV
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.ver-television.online/images/tnt_.png", TELEFE
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.ver-television.online/images/tnt_.png", EL TRECE
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.ver-television.online/images/tnt_.png", CANAL 9
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://www.ver-television.online/images/tnt_.png", AMERICA
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", FOX SPORT PREMIUM
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", TNT SPORT
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", TYC SPORT
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", FOX SPORT
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", FOX SPORT 2
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", FOX SPORT 3
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", ESPN
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", ESPN 2
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", ESPN 3
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", ESPN 4
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", ESPN +
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.ver-television.online/images/tnt_.png", DEPORTV
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
